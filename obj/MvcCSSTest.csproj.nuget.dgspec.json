@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/captainsafia/Verifications/MvcCSSTest/MvcCSSTest.csproj": {}
+  },
+  "projects": {
+    "/Users/captainsafia/Verifications/MvcCSSTest/MvcCSSTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/captainsafia/Verifications/MvcCSSTest/MvcCSSTest.csproj",
+        "projectName": "MvcCSSTest",
+        "projectPath": "/Users/captainsafia/Verifications/MvcCSSTest/MvcCSSTest.csproj",
+        "packagesPath": "/Users/captainsafia/.nuget/packages/",
+        "outputPath": "/Users/captainsafia/Verifications/MvcCSSTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/captainsafia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/captainsafia/.dotnet/sdk/6.0.100-preview.5.21226.2/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
